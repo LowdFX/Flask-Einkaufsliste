@@ -1,7 +1,7 @@
 # Flask Einkaufsliste
 
 Eine einfache Einkaufsliste basierend auf Flask, SQLite und WebSockets zur Echtzeitaktualisierung.
-<img src="basket.png" alt="Bild" width="200">
+<img src="basket.png" alt="Bild" width="400">
 
 ## Funktionen
 - **Flask** als Backend
