@@ -20,7 +20,7 @@ Eine einfache Einkaufsliste basierend auf Flask, SQLite und WebSockets zur Echtz
 ### Installation
 1. Klone das Repository:
    ```sh
-   git clone https://github.com/dein-benutzername/flask-einkaufsliste.git
+   git clone https://github.com/LowdFX/flask-einkaufsliste.git
    cd flask-einkaufsliste
    ```
 2. Erstelle eine virtuelle Umgebung (optional, aber empfohlen):
